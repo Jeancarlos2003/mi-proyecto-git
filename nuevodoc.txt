@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+</head>
+<body>
+     <h1>solo datos personales </h1>
+    <h2>datos como</h2>
+    <p>los datos seran: nombre , fecha de nacimiento y lugar,
+    sexo, estado actual</p>
+</body>
+</html>
+
+
+
+
